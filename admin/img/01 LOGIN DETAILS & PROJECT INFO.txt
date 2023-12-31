@@ -1,0 +1,16 @@
+**Log on to shoptube.com for more projects!***
+
+**Database Name: dbshoptube**
+
+**Developed by Suraj Kumar**
+
+**Recommended PHP Version 5.6, 7.4**
+
+
+
+**Customer Verification should be done by accessing the database and changing its active status**
+
+**Admin Login Details**
+
+Email   : admin@shoptube.com
+Password: Pass@123
